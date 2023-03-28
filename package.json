@@ -9,6 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "author":{ "name": "Gergo Starosta",
+    "email": "staridev@gmail.com",
+    "url": "https://www.linkedin.com/in/gergo-starosta/"},
+  "publisher": "StariDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StariGeri/Greenary-VSCode-Theme.git"
+  },
   "contributes": {
     "themes": [
       {
