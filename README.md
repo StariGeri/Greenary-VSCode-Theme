@@ -14,6 +14,6 @@ Greenary is a high-contrast dark theme, which is created specifically for Visual
 5) At the opened search bar, start typing "Theme" and click on "Preferences: Color Theme"
 6) From the list choose "Greenary"
 
-You are all set, from now on you can use this Theme in any of your existing/future projects. You can switch between themes by repeating steps 4-6.<br>
+You are all set, from now on you can use this Theme in any of your existing/future projects. You can switch between themes by repeating steps 4-6.<br><br>
 **Enjoy it and code the world!**
 ![Greenary2](https://user-images.githubusercontent.com/99720516/228320895-3c4825c6-c5fa-45c1-bb19-8f4a8e9c38a2.jpg)
