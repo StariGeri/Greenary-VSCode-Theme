@@ -1,0 +1,21 @@
+{
+  "name": "Greenary",
+  "displayName": "Greenary",
+  "description": "Greenary is created with the mix of light and dark greenish colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Greenary",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Greenary-color-theme.json"
+      }
+    ]
+  }
+}
